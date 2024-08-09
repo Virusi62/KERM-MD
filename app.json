@@ -1,6 +1,6 @@
 {
-  "name": "kerm-md",
-  "description": "𝐊𝐄𝐑𝐌-𝐌𝐃 simple WhatsAppp Bot",
+  "name": "ALVIN-md",
+  "description": "ALVIN-𝐌𝐃 POROR HIGHSCHOOL PRODUCT ",
   "logo": "https://telegra.ph/file/68af6a5bee7525404da75.jpg",
   "keywords": "Kerm-MD",
   "success_url": "/Kerm-MD/",
@@ -28,13 +28,13 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "KG TECH",
+      "value": "ALVIN",
       "required": true
     },
 
     "WELCOME": {
       "description": "Welcome Message",
-      "value": "false",
+      "value": "true",
       "required": false
     },
 
@@ -46,7 +46,7 @@
     "BOT_NAME": {
       "description": "Bot Name",
       "required": false,
-      "value": "𝐊𝐄𝐑𝐌-𝐌𝐃"
+      "value": "ALVIN MD"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
